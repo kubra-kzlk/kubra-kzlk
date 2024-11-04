@@ -5,9 +5,6 @@
 - 👯 I’m currently looking for internships (front-end)
 - 📫 How to reach me: kubra.kizilkilic@student.ap
 - 🚀 Always open to collaborating on innovative projects. Let’s connect and create something awesome together!
-
-###              ### 🔥 Top Languages
-
 <table>
   <tr>
     <td>
@@ -15,6 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
+       <h2>🔥 Top Languages </h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
     </td>
   </tr>
