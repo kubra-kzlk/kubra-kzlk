@@ -20,8 +20,6 @@
   
 <!--  ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical)-->
-### 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
 
 
 ### 🛠 Tech Stack
@@ -37,5 +35,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET" />
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
 
 
