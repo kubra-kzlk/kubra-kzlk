@@ -6,11 +6,12 @@
 - 📫 How to reach me: kubra.kizilkilic@student.ap
 - 🚀 Always open to collaborating on innovative projects. Let’s connect and create something awesome together!
 
-### 📊 GitHub Stats              ### 🔥 Top Languages
+###              ### 🔥 Top Languages
 
 <table>
   <tr>
     <td>
+      <h2>📊 GitHub Stats </h2>
       <img src="https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
