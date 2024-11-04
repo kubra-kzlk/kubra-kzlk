@@ -9,11 +9,11 @@
   <tr>
     <td>
       <h2>📊 GitHub Stats </h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 50%;" />
     </td>
     <td>
        <h2>🔥 Top Languages </h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical" alt="Top Languages" style="max-width: 50%;" />
     </td>
   </tr>
 </table>-->
