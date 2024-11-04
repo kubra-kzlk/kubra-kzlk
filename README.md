@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Kubra
+## Hi there 👋, I'm Kubra ![Cool GIF](https://media.giphy.com/media/mGcNjsfWAjY5AEEZNw6/giphy.gif)
+
 - 👩‍🎓 Passionate about turning ideas into code and learning something new every day. 
 - 🌍 Based in Antwerp, where I’m diving into web development, software engineering, and all things tech.
 - 🔧 I’m currently learning React, c#, Typescript, Express
