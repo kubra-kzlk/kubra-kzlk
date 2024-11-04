@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kubra ![Cat GIF](https://media.giphy.com/media/mGcNjsfWAjY5AEEZNw6/giphy.gif)
+## Hi there 👋, I'm Kubra ![Cat GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqbmFxY29xM21zMzJmOWRmcTR5ZW0xMGZ6Y29oczZlZnZtbjdtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif)
 
 - 👩‍🎓 Passionate about turning ideas into code and learning something new every day. 
 - 🌍 Based in Antwerp, where I’m diving into web development, software engineering, and all things tech.
