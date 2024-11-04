@@ -6,11 +6,24 @@
 - 📫 How to reach me: kubra.kizilkilic@student.ap
 - 🚀 Always open to collaborating on innovative projects. Let’s connect and create something awesome together!
 
-  ### 📊 GitHub Stats
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!--  ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical)
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
-
+-->
 ### 🛠 Tech Stack
 **Frontend**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> &nbsp;
