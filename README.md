@@ -43,6 +43,26 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" /> &nbsp;
+<!-- Git icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /> &nbsp;
+
+<!-- GitHub icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /> &nbsp;
+
+<!-- Trello icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" /> &nbsp;
+
+<!-- Figma icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /> &nbsp;
+
+<!-- Wireshark icon -->
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" alt="Wireshark" /> &nbsp;
+
+<!-- Burp Suite icon -->
+<img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" height="40" alt="Burp Suite" /> &nbsp;
+
+<!-- OWASP icon -->
+<img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40" alt="OWASP" /> &nbsp;
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
