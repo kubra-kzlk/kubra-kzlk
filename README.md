@@ -4,7 +4,7 @@
 - 🔧 I’m currently learning React, c#, Typescript, Express
 - 👯 I’m currently looking for internships (front-end)
 - 📫 How to reach me: kubra.kizilkilic@student.ap.be
-- 🚀 Always open to collaborating on innovative projects. Let’s connect and create something awesome together!
+<!--- 🚀 Always open to collaborating on innovative projects. Let’s connect and create something awesome together!--
 <!--<table style="border: none;">
   <tr>
     <td style="border: none; padding-right: 10px;">
