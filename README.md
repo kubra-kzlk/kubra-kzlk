@@ -34,9 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /> &nbsp;
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ajax/ajax-original-wordmark.svg" width="40" height="40" alt="AJAX" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" /> &nbsp;
@@ -50,6 +47,7 @@
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" alt="Wireshark" /> &nbsp;
 
 
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ajax/ajax-original-wordmark.svg" width="40" height="40" alt="AJAX" /> &nbsp;-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
 
