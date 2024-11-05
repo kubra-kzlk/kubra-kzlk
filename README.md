@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kubra <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqbmFxY29xM21zMzJmOWRmcTR5ZW0xMGZ6Y29oczZlZnZtbjdtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150" height="auto" />
+## Hi there, I'm Kubra <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqbmFxY29xM21zMzJmOWRmcTR5ZW0xMGZ6Y29oczZlZnZtbjdtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150" height="auto" />
 - 👩‍🎓 Passionate about turning ideas into code and learning something new every day. 
 - 🌍 Based in Antwerp, where I’m diving into web development, software engineering, and all things tech.
 - 🔧 I’m currently learning React, c#, Typescript, Express
