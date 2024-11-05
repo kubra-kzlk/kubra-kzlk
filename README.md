@@ -22,7 +22,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical)-->
 
 
-### 🛠 Tech Stack
+### Tech Stack
 <!--**Frontend** **Backend**    -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> &nbsp;
