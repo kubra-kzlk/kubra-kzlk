@@ -51,6 +51,15 @@
 <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" height="40" alt="Burp Suite" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40" alt="OWASP" /> &nbsp;
 
+<!-- Burp Suite (Alternate icon source) -->
+<img src="https://user-images.githubusercontent.com/13840165/186778742-4eb2c2bb-eae2-4f1a-bdc9-74c289ec1ec6.png" width="40" height="40" alt="Burp Suite" /> &nbsp;
+
+<!-- OWASP (Direct link from official assets) -->
+<img src="https://owasp.org/assets/images/logo-OWASP.svg" width="40" height="40" alt="OWASP" /> &nbsp;
+
+<!-- AJAX - Using JavaScript icon as a placeholder since AJAX has no official icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="AJAX (JavaScript placeholder)" /> &nbsp;
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
 
