@@ -45,7 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" alt="Wireshark" /> &nbsp;
-<img src="https://raw.githubusercontent.com/storybookjs/brand/main/logo.svg" width="40" height="40" alt="Storybook" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" alt="Storybook" /> &nbsp;
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ajax/ajax-original-wordmark.svg" width="40" height="40" alt="AJAX" /> &nbsp;-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
