@@ -45,7 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" alt="Wireshark" /> &nbsp;
-
+<img src="https://cdn.jsdelivr.net/npm/@storybook/logo@6.4.19/svg/logo-icon.svg" width="40" height="40" alt="Storybook" /> &nbsp;
 
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ajax/ajax-original-wordmark.svg" width="40" height="40" alt="AJAX" /> &nbsp;-->
 
