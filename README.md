@@ -17,9 +17,10 @@
     </td>
   </tr>
 </table>-->
-  
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=kubra-kzlk&label=Profile%20views&color=0e75b6&style=flat" alt="kubra-kzlk" />
+</p>
 <!--  ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubra-kzlk&show_icons=true&theme=radical)-->
 
 
 ### Tech Stack
