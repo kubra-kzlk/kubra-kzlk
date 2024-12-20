@@ -1,8 +1,7 @@
-## Hi there, I'm Kubra <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqbmFxY29xM21zMzJmOWRmcTR5ZW0xMGZ6Y29oczZlZnZtbjdtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150" height="auto" />
+## Hi there, I'm Kubra <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqbmFxY29xM21zMzJmOWRmcTR5ZW0xMGZ6Y29oczZlZnZtbjdtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150" height="auto" /> 
 - 👩‍🎓 Passionate about turning ideas into code and learning something new every day. 
 - 🌍 Based in Antwerp, where I’m diving into web development, software engineering, and all things tech.
 - 🔧 I’m currently learning React, c#, Typescript, Express
-- 👯 I'm currently seeking front-end development internships to apply and grow my skills in web development.
 - 📫 How to reach me: kubra.kizilkilic@student.ap.be
 <!--- 🚀 Always open to collaborating on innovative projects. Let’s connect and create something awesome together!--
 <!--<table style="border: none;">
@@ -17,9 +16,7 @@
     </td>
   </tr>
 </table>-->
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kubra-kzlk&label=Profile%20views&color=0e75b6&style=flat" alt="kubra-kzlk" />
-</p>
+ 
 <!--  ### 📊 GitHub Stats
 
 
@@ -51,4 +48,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
 
-
+ <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=kubra-kzlk&label=Profile%20views&color=0e75b6&style=flat" alt="kubra-kzlk" />
+</p>
