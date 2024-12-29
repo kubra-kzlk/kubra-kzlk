@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" alt="Storybook" /> &nbsp;
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ajax/ajax-original-wordmark.svg" width="40" height="40" alt="AJAX" /> &nbsp;-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-kzlk&layout=compact&langs_count=6&theme=radical)-->
 
  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kubra-kzlk&label=Profile%20views&color=0e75b6&style=flat" alt="kubra-kzlk" />
